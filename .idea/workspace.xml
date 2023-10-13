@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29542f52-5d80-40d9-ab6f-501f56505fc2" name="Changes" comment="commit4">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/2/22655a917831cb60fcba38eb0eb446fddfc68f6e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2bb1e482f43204167ddc4eadcc5c5fc939dbe466" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/74797816544db6172770ab6cfaf00eedfc53877c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/2/22655a917831cb60fcba38eb0eb446fddfc68f6e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/b/2bb1e482f43204167ddc4eadcc5c5fc939dbe466" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/4/74797816544db6172770ab6cfaf00eedfc53877c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/candidat-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/candidat-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/company-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/company-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configserver/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/configserver/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discoveryserver/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/discoveryserver/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/identity-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/identity-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/keycloak/keycloak-core/18.0.2/keycloak-core-18.0.2-sources.jar!/org/keycloak/representations/AccessTokenResponse.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2V5X4mfzVwrwLgpQyn9JSdJtMWT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "19",
+    "last_opened_file_path": "C:/Users/slimd/OneDrive/Bureau/microservices",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "796ca09736c913ce19b6ae55fdd74c84"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.slim.identityService.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\slimd\OneDrive\Bureau\pi\SpringBootMicroservices\application-service\src\main\java\com\slim\applicationservice\config" />
+      <recent name="C:\Users\slimd\OneDrive\Bureau\pi\SpringBootMicroservices\configserver\src\main\resources\configurations" />
+      <recent name="C:\Users\slimd\OneDrive\Bureau\pi\SpringBootMicroservices\company-service\src\main\java\com\slim\company" />
+      <recent name="C:\Users\slimd\OneDrive\Bureau\pi\SpringBootMicroservices\company-service\src\main\java\com\slim\company\config" />
+      <recent name="C:\Users\slimd\OneDrive\Bureau\pi\SpringBootMicroservices\identity-service\src\main\java\com\slim\identityService" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\slimd\OneDrive\Bureau\pi\SpringBootMicroservices\identity-service\src\main\resources" />
+      <recent name="C:\Users\slimd\OneDrive\Bureau\pi\SpringBootMicroservices" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.slim.identityService.config" />
+      <recent name="com.slim.candidat.config" />
+      <recent name="com.slim.identityService.dto" />
+      <recent name="com.slim.candidat.client" />
+      <recent name="com.springbootmicroservices.apigateway.config" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install -U " />
+      <command value="mvn dependency:tree " />
+      <command value="mvn clean package" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.IdentityServiceApplication">
+    <configuration name="CompanyServiceApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="company-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.slim.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.slim.company" />
+      <option name="MAIN_CLASS_NAME" value="com.slim.company.CompanyServiceApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdvertisementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="advertisement" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springbootmicroservices.advertisement.AdvertisementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApigatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="ms" temporary="true" nameIsGenerated="true">
+      <module name="apigateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springbootmicroservices.apigateway.ApigatewayApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springbootmicroservices.apigateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="ms">
+      <module name="application-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.slim.applicationservice.ApplicationServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="candidat-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.slim.applicationservice.ApplicationServiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.slim.applicationservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CandidatServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="ms" temporary="true" nameIsGenerated="true">
+      <module name="candidat-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.slim.candidat.CandidatServiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.slim.candidat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompanyServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="ms">
+      <module name="company-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.slim.company.CompanyServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="ms">
+      <module name="configserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springbootmicroservices.configserver.ConfigserverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="ms" temporary="true" nameIsGenerated="true">
+      <module name="discoveryserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springbootmicroservices.discoveryserver.DiscoveryserverApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springbootmicroservices.discoveryserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IdentityServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="ms">
+      <module name="identity-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.slim.identityService.IdentityServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="userservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springbootmicroservices.userservice.UserserviceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CompanyServiceApplicationTests" />
+      <item itemvalue="Spring Boot.ApplicationServiceApplication (1)" />
+      <item itemvalue="Spring Boot.IdentityServiceApplication" />
+      <item itemvalue="Spring Boot.CompanyServiceApplication" />
+      <item itemvalue="Spring Boot.ConfigserverApplication" />
+      <item itemvalue="Spring Boot.ApigatewayApplication" />
+      <item itemvalue="Spring Boot.DiscoveryserverApplication" />
+      <item itemvalue="Spring Boot.CandidatServiceApplication" />
+      <item itemvalue="Spring Boot.UserserviceApplication" />
+      <item itemvalue="Spring Boot.AdvertisementApplication" />
+      <item itemvalue="Spring Boot.ApplicationServiceApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.CandidatServiceApplication" />
+        <item itemvalue="Spring Boot.DiscoveryserverApplication" />
+        <item itemvalue="Spring Boot.ApigatewayApplication" />
+        <item itemvalue="JUnit.CompanyServiceApplicationTests" />
+        <item itemvalue="Spring Boot.ApplicationServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29542f52-5d80-40d9-ab6f-501f56505fc2" name="Changes" comment="" />
+      <created>1694126725401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694126725401</updated>
+      <workItem from="1694126726809" duration="3482000" />
+      <workItem from="1694169158012" duration="10938000" />
+      <workItem from="1694217489701" duration="2467000" />
+      <workItem from="1694253232312" duration="13711000" />
+      <workItem from="1694355494571" duration="6717000" />
+      <workItem from="1694421642850" duration="11970000" />
+      <workItem from="1694449671622" duration="778000" />
+      <workItem from="1694450468313" duration="542000" />
+      <workItem from="1694472318471" duration="2881000" />
+      <workItem from="1694506009745" duration="34276000" />
+      <workItem from="1694597577257" duration="17174000" />
+      <workItem from="1694858721023" duration="1455000" />
+      <workItem from="1694950404498" duration="9032000" />
+      <workItem from="1695024441157" duration="57453000" />
+      <workItem from="1695463741452" duration="21984000" />
+      <workItem from="1695638472752" duration="618000" />
+      <workItem from="1695639109827" duration="7916000" />
+      <workItem from="1695816132751" duration="28830000" />
+      <workItem from="1695984721396" duration="26365000" />
+      <workItem from="1696178924340" duration="3651000" />
+      <workItem from="1696319051921" duration="16842000" />
+      <workItem from="1696543150783" duration="4628000" />
+      <workItem from="1696678003730" duration="2994000" />
+      <workItem from="1696761852003" duration="11721000" />
+      <workItem from="1696856226314" duration="4035000" />
+      <workItem from="1696894207336" duration="462000" />
+      <workItem from="1696928787719" duration="2113000" />
+      <workItem from="1697009630980" duration="7573000" />
+      <workItem from="1697111070083" duration="1805000" />
+      <workItem from="1697129650108" duration="5336000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit2">
+      <created>1696457483553</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696457483553</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit3">
+      <created>1696892087040</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696892087040</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit3">
+      <created>1696894345078</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696894345078</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit4">
+      <created>1697111313482</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697111313482</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit4">
+      <created>1697111776041</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697111776041</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="39ca674f-00b5-4d90-be05-c967dbb45ad3">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/slimd/OneDrive/Bureau/pi/SpringBootMicroservices/application-service" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="39ca674f-00b5-4d90-be05-c967dbb45ad3" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Paths">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="dir:C:/Users/slimd/OneDrive/Bureau/pi/SpringBootMicroservices/application-service" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit2" />
+    <MESSAGE value="commit3" />
+    <MESSAGE value="commit4" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit4" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.keycloak.admin.client.Keycloak" memberName="config" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

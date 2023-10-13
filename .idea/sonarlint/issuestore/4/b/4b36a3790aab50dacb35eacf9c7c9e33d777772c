@@ -1,0 +1,9 @@
+
+`	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+`	java:S112E"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+`	java:S112U"FDefine and throw a dedicated exception instead of using a generic one.(ÖîöÕşÿÿÿÿ
+`	java:S112g"FDefine and throw a dedicated exception instead of using a generic one.(ÖîöÕşÿÿÿÿ
+«
+java:S4449&"Annotate the parameter with @javax.annotation.Nullable in method 'cleanPath' declaration, or make sure that null can not be passed as argument.(ó¹À…üÿÿÿÿ
+P	java:S125j"<This block of commented-out lines of code should be removed.(ÖÀu
+R	java:S125"<This block of commented-out lines of code should be removed.(”’ÎÂ

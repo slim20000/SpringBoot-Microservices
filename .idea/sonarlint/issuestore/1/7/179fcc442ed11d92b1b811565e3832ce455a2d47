@@ -1,0 +1,13 @@
+
+V	java:S125*"<This block of commented-out lines of code should be removed.(èÖĞÙûÿÿÿÿ
+[
+java:S4684G"@Replace this persistent entity with a simple POJO or DTO object.(Ñ‚¼ùÿÿÿÿ
+[
+java:S4684m"@Replace this persistent entity with a simple POJO or DTO object.(æ‹¶Ûüÿÿÿÿ
+A
+java:S1452m"&Remove usage of generic wildcard type.(æ‹¶Ûüÿÿÿÿ
+Q	java:S125f"<This block of commented-out lines of code should be removed.(›àâ¢
+g
+java:S1128"LRemove this unused import 'org.springframework.web.multipart.MultipartFile'.(ôŸœÿÿÿÿÿ
+N
+java:S1128"3Remove this unused import 'javax.validation.Valid'.(æ¤ñ÷úÿÿÿÿ

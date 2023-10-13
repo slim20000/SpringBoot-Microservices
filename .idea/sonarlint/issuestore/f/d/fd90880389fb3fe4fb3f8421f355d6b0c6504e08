@@ -1,0 +1,4 @@
+
+k	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ใฮ็๙ÿÿÿÿ
+i
+java:S1128"TRemove this unused import 'org.springframework.dao.DataIntegrityViolationException'.(ลิบ(
